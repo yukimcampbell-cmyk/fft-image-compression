@@ -10,4 +10,4 @@ The project demonstrates the trade-off between compression rate and image qualit
 - Frequency-Domain Analysis
 
 ## Results
-![FFT image compression results](compression_results.pdf)
+![FFT image compression results](compression_results.png)
